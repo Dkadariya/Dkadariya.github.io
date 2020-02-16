@@ -34,7 +34,7 @@ $(document).ready(function() {
 		return false;
 	});
 
-	const words = ["Software Engineer", "Data Science", "Machine Learning", "Conversational AI"];
+	const words = ["Software Engineer", "Chatbot Engineer", "Machine Learning", "Conversational AI"];
 let i = 0;
 let timer;
 
